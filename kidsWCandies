@@ -1,0 +1,19 @@
+class Solution(object):
+    def kidsWithCandies(self, candies, extraCandies):
+        arr = []
+        for i in range(len(candies)):
+            temp = []
+            for j in range(len(candies)):
+                if(i != j):
+                    temp.append(candies[j])
+                elif( i == j and candies[i] + extraCandies not in temp):
+                    temp.append(candies[i] + extraCandies)
+                else:
+                    temp.append(candies[i] + extraCandies)
+
+            maxi = max(temp)
+            if(maxi == temp[i]):
+                arr.append(True)
+            else:
+                arr.append(False)
+        return arr
