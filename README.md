@@ -1,11 +1,11 @@
 [![MasterHead](./github-header-image.png)](https://cherry-thecsstudent.github.io/sheCodesFoundation/)
 <h1 align="center">Hi 👋, I'm Yuzana</h1>
 <h3 align="center">Welcome to my profile! I'm a student, freelance web developer and part-time teacher. I previously consulted @Netpoleon Solutions. Thanks for visiting and I'd love to connect!</h3>
-<img width=“400” align=“right” src = "./coding.gif”>
-
-- 🔭 I’m currently working on **BEAM Education Foundation Website**
-
-- 📫 How to reach me **https://www.linkedin.com/in/yuzanawinn/**
+<img width ="250" height ="300" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDgxMzZtcjN2bjhuZTd3NmVmOTIxM2RyeGVjcnZ3Y21hM2E3M3J5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
+<br>
+- 🔭 I’m currently working on BEAM Education Foundation's Migrant Children Database Website
+<br>
+- 📫 How to reach me : https://www.linkedin.com/in/yuzanawinn/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
