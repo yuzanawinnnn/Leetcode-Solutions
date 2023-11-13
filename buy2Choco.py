@@ -3,7 +3,7 @@ class Solution(object):
         arr = []
         for i in range(len(prices)):
             for j in range(len(prices)):
-                if(prices[i]+prices[j]<=money and i!=j):
+                if( prices[i] + prices[j] <= money and i != j):
                     arr.append(money-prices[i]-prices[j])
         if(len(arr) < 1):
             return money
